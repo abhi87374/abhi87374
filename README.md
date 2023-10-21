@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abhikumar Gupta
 
-A passionate Fullstack web developer from India and a MERN intern at WebStack Academy. 🚀
+A passionate Fullstack web developer from India🚀
 
 ## About Me 🌟
 
