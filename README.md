@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋, I'm Abhikumar Gupta
 
-<!--
-**abhi87374/abhi87374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Fullstack web developer from India and a MERN intern at WebStack Academy. 🚀
 
-Here are some ideas to get you started:
+## About Me 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web development enthusiast with a strong focus on the MERN stack. I love creating web applications that are not only functional but also visually appealing. My journey in the world of web development has been an exciting one, and I'm always eager to learn and explore new technologies. 🎯
+
+## Skills 💻
+
+Here are some of the tools and technologies I work with:
+- Languages: C, C++, Python
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js
+- Database: MongoDB
+- Version Control: Git
+- Responsive Web Design 📱
+
+## Projects 🚀
+
+I have worked on a variety of projects, including:
+
+- [Stone Paper Scissors Game](https://github.com/abhi87374/Stone_Paper_scissors_game/tree/main): Stone-Paper-Scissors is a classic hand game that has been enjoyed for generations. This digital version of the game offers a choice between "easy" and "hard" levels, where you can compete against the computer in a fun and challenging way. ✂️📜
+
+## Contact Me 📧
+
+Let's connect and collaborate:
+- LinkedIn: [Abhikumar Gupta](https://www.linkedin.com/in/abhikumar-gupta-2440b5218/) 💼
+- Email: abhi873.official@gmail.com 📬
+
+Feel free to reach out for web development discussions, collaboration, or just to say hello! 😄
