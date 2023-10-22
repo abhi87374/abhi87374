@@ -2,8 +2,6 @@
 
 - 👋 Hi, I’m @abhi87374 aka Abhikumar Gupta
 - 👀 A passionate frontend developer from India
-- 🌱 I’m currently learning **Node.js, React**
-- 💬 Ask me about **HTML, CSS, JS**
 - 📫 Email: abhi873.official@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
@@ -38,7 +36,6 @@
  
 [linkedin]: https://www.linkedin.com/in/abhikumar-gupta-2440b5218/
 
-
-
+Feel free to reach out for web development discussions, collaboration, or just to say hello! 😄
 
 
