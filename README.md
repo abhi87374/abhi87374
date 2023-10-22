@@ -1,32 +1,36 @@
-# Hi there 👋, I'm Abhikumar Gupta
+## 👨🏻‍💻 &nbsp;About Me
 
-A passionate Fullstack web developer from India🚀
+- 👋 Hi, I’m @abhi87374 aka Abhikumar Gupta
+- 👀 I’m interested in new techonlogies
+- 📫 Email: abhi873.official@gmail.com
 
-## About Me 🌟
+## 🛠 &nbsp;Tech Stack
 
-I'm a web development enthusiast with a strong focus on the MERN stack. I love creating web applications that are not only functional but also visually appealing. My journey in the world of web development has been an exciting one, and I'm always eager to learn and explore new technologies. 🎯
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## Skills 💻
 
-Here are some of the tools and technologies I work with:
-- Languages: C, C++, Python
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js
-- Database: MongoDB
-- Version Control: Git
-- Responsive Web Design 📱
 
-## Projects 🚀
+## ⚙️ &nbsp;GitHub Analytics
 
-I have worked on a variety of projects, including:
+<p align="left">
+<a href="https://github.com/abhi87374">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhi87374&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi87374&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-- [Stone Paper Scissors Game](https://github.com/abhi87374/Stone_Paper_scissors_game/tree/main): Stone-Paper-Scissors is a classic hand game that has been enjoyed for generations. This digital version of the game offers a choice between "easy" and "hard" levels, where you can compete against the computer in a fun and challenging way. ✂️📜
-- [DES algorithm in c](https://github.com/abhi87374/DES-implementation-in-c) : DES is a symmetric-key block cipher that was widely used for data encryption. This code demonstrates the encryption and decryption processes of DES.
+ ## 🤝🏻 &nbsp;Connect with Me
 
-## Contact Me 📧
 
-Let's connect and collaborate:
-- LinkedIn: [Abhikumar Gupta](https://www.linkedin.com/in/abhikumar-gupta-2440b5218/) 💼
-- Email: abhi873.official@gmail.com 📬
-
-Feel free to reach out for web development discussions, collaboration, or just to say hello! 😄
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21bcs089@iiitdmj.ac.in)
+ 
+[linkedin]: https://www.linkedin.com/in/abhikumar-gupta-2440b5218/
