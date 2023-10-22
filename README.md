@@ -1,7 +1,9 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 👋 Hi, I’m @abhi87374 aka Abhikumar Gupta
-- 👀 I’m interested in new techonlogies
+- 👀 A passionate frontend developer from India
+- 🌱 I’m currently learning **Node.js, React**
+- 💬 Ask me about **HTML, CSS, JS**
 - 📫 Email: abhi873.official@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
@@ -26,6 +28,7 @@
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi87374&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi87374&" alt="abhi87374" /></p>
 
  ## 🤝🏻 &nbsp;Connect with Me
 
@@ -34,3 +37,8 @@
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21bcs089@iiitdmj.ac.in)
  
 [linkedin]: https://www.linkedin.com/in/abhikumar-gupta-2440b5218/
+
+
+
+
+
