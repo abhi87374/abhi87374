@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @abhi87374 aka Abhikumar Gupta
 - 👀 A passionate frontend developer from India
+- 🏫 CSE undergrad at IIITDM Jabalpur
 - 📫 Email: abhi873.official@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
