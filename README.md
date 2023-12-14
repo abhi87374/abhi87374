@@ -31,8 +31,10 @@
 
  ## 🤝🏻 &nbsp;Connect with Me
 
+<a href="https://www.linkedin.com/in/abhikumar-gupta-2440b5218/" target="_blank" title="LinkedIn">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21bcs089@iiitdmj.ac.in)
 
 <a href="https://abhi87374.github.io/Abhikumar-s_portfolio" target="_blank" title="Portfolio">
