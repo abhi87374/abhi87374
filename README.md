@@ -1,4 +1,4 @@
- 👨🏻‍💻 &nbsp;About Me
+ ## 👨🏻‍💻 &nbsp;About Me
 
 - 👋 Hi, I’m @abhi87374 aka Abhikumar Gupta
 - 👀 A passionate frontend developer from India
@@ -35,6 +35,86 @@
 </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi87374&" alt="abhi87374" /></p>
+
+
+## 🚀 &nbsp;Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Canteen Website</h3>
+      <p align="center">
+        <a href="https://github.com/abhi87374/Collage-Canteen-Website" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://collage-canteen-website.000webhostapp.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-000webhostapp-brightgreen?style=for-the-badge&logo=internet-explorer">
+        </a>
+      </p>
+      <p align="center">
+        A user-friendly canteen website for college students. This project features an online menu, order tracking, and canteen staff information. Built using HTML, CSS, JavaScript, and PHP with a MySQL database.
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhi87374&repo=Collage-Canteen-Website&theme=algolia" alt="Canteen Website">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Personal Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/abhi87374/Abhikumar-s_portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://abhi87374.github.io/Abhikumar-s_portfolio/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-gh--pages-brightgreen?style=for-the-badge&logo=internet-explorer">
+        </a>
+      </p>
+      <p align="center">
+        A personal portfolio website showcasing my projects, skills, and experience. Built using HTML, CSS, JavaScript with a MongoDB database, and hosted on GitHub Pages.
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhi87374&repo=Abhikumar-s_portfolio&theme=algolia" alt="Personal Portfolio">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Responsive Web Page</h3>
+     <p align="center">
+        <a href="https://github.com/abhi87374/responsive_page" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://abhi87374.github.io/responsive_page/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-gh--pages-brightgreen?style=for-the-badge&logo=internet-explorer">
+        </a>
+      </p>
+      <p align="center">
+        A responsive web page designed to be mobile-friendly and adaptable to various screen sizes. Utilizes modern CSS techniques and JavaScript for dynamic content.
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhi87374&repo=responsive_page&theme=algolia" alt="Responsive Web Page">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Slack App Clone</h3>
+      <p align="center">
+        <a href="https://github.com/abhi87374/Slack_app" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+      </p>
+      <p align="center">
+CapChat is a Flask application that forwards messages from one Slack channel to another using the /forward slash command. Built with Python Flask,Slack api.      </p>
+      <p align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhi87374&repo=Slack_app&theme=algolia" alt="Slack App Clone">
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
  ## 🤝🏻 &nbsp;Connect with Me
 
