@@ -186,16 +186,17 @@
 [![An image of @abhi873s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi873)](https://holopin.io/@abhi873)
 
 
-## <a align="left"> 🔝 &nbsp;Top Contributed Repo  ------------------- <a align="right">✍️ &nbsp;Random Dev Quote</a>
+##  🔝 &nbsp;Top Contributed Repo  
 
 <p >
   <a align="left">
     <img src="https://github-contributor-stats.vercel.app/api?username=abhi87374&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a align="right">
+    <p>✍️ &nbsp;Random Dev Quote</p>
     <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote"/>
-  </a>
+  </a> -->
 </p>
 
 
