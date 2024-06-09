@@ -11,60 +11,77 @@
   - 👋 hi, I’m @abhi87374 aka Abhikumar Gupta<br>
   - 👀 I'm passionate web developer from India<br>
   - 🏫 CSE undergrad at IIITDM Jabalpur<br>
-  - 📧 Email:   <a href="mailto:abhi873.official@gmail.com" target="_blank" title="Gmail">abhi873.official@gmail.com</a> <br>
+  - 📧 Can reach me via  <a href="mailto:abhi873.official@gmail.com" target="_blank" title="Gmail">abhi873.official@gmail.com</a> <br>
   - 📝 Resume: <a href="https://drive.google.com/file/d/1ep9lqpF4xolB564cg_DdtNNrMSuZ_DLn/view?usp=sharing" target="_blank" title="Resume"> drive link</a>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
 
-<div >
-<a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
-  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-</a>&nbsp;
-  <br>
-<a href="https://img.shields.io/badge/-Express-05122A?style=flat&logo=EXPRESS&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=EXPRESS&logoColor=1572B6" alt="Express">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Php-05122A?style=flat&logo=PHP">
-  <img src="https://img.shields.io/badge/-Php-05122A?style=flat&logo=PHP" alt="Php">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT">
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT" alt="React">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql">
-  <img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql" alt="Mysql">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb">
-  <img src="https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb" alt="Mongodb">
-</a>&nbsp;
-<a href="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql">
-  <img src="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql" alt="Postgresql">
-</a>&nbsp;
-</div>
+<p >
+  <a href="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" alt="Java">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/Php-%230081CB.svg?style=flat&logo=Php&logoColor=white">
+    <img src="https://img.shields.io/badge/Php-%230081CB.svg?style=flat&logo=Php&logoColor=white" alt="Php">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" alt="NPM">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  </a>&nbsp;
+  <a href="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github-pages&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github-pages&logoColor=white" alt="GitHub Pages">
+  </a>&nbsp;
+</p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -165,17 +182,48 @@
   <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 </p>
 
+## ⭐ &nbsp;Badges 
+[![An image of @abhi873s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi873)](https://holopin.io/@abhi873)
+
+
+## <a align="left"> 🔝 &nbsp;Top Contributed Repo  -------------------------------------- <a align="right">✍️ &nbsp;Random Dev Quote</a>
+
+<p >
+  <a align="left">
+    <img src="https://github-contributor-stats.vercel.app/api?username=abhi87374&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a align="right">
+    <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote"/>
+  </a>
+</p>
+
+
+
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhikumar-gupta-2440b5218/" target="_blank" title="LinkedIn">
-    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:21bcs089@iiitdmj.ac.in" target="_blank" title="Gmail">
-    <img align="center" alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://abhi87374.github.io/Abhikumar-s_portfolio" target="_blank" title="Portfolio">
+    <a href="https://github.com/abhi87374?tab=followers" target="_blank" title="Follow me on GitHub">
+  <img align="center" src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub">
+</a>
+    <a href="https://abhi87374.github.io/Abhikumar-s_portfolio" target="_blank" title="Portfolio">
     <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-YourColor?style=for-the-badge&logo=web&logoColor=white" />
   </a>
+  <a href="mailto:21bcs089@iiitdmj.ac.in" target="_blank" title="Gmail">
+    <img  align="center" alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/abhikumar-gupta-2440b5218/" target="_blank" title="LinkedIn">
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</a>
+<a href="https://x.com/Abhikum47686083?t=Jav66Mg2Lag9i_B_qtIQpg&s=09" target="_blank" title="Twitter">
+  <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/a.b_hiii/" target="_blank" title="Instagram">
+  <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+
+
 </p>
 
 <p align="center">
