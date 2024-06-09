@@ -186,7 +186,7 @@
 [![An image of @abhi873s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi873)](https://holopin.io/@abhi873)
 
 
-## <a align="left"> 🔝 &nbsp;Top Contributed Repo  -------------------------------------- <a align="right">✍️ &nbsp;Random Dev Quote</a>
+## <a align="left"> 🔝 &nbsp;Top Contributed Repo  ------------------- <a align="right">✍️ &nbsp;Random Dev Quote</a>
 
 <p >
   <a align="left">
