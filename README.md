@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 <div padding-left="1pm">
   - 👋 hi, I’m @abhi87374 aka Abhikumar Gupta<br>
-  - 👀 I'm passionate web developer from India<br>
+  - 👀 I'm passionate web developer and ML enthusiast from India<br>
   - 🏫 CSE undergrad at IIITDM Jabalpur<br>
   - 📧 Can reach me via  <a href="mailto:abhi873.official@gmail.com" target="_blank" title="Gmail">abhi873.official@gmail.com</a> <br>
   - 🔗 Portfolio: <a href="https://abhi87374.github.io/Abhikumar-s_portfolio/" target="_blank" title="Resume"> My Portfolio Website</a>
