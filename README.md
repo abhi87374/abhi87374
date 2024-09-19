@@ -96,6 +96,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi87374&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
 
+<!--
 ## 🚀 &nbsp;Projects
 
 <table align="center">
@@ -173,6 +174,7 @@
 <h4 align="center">
   <a href="https://github.com/abhi87374?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+ --> 
 
 ## 🏆 GitHub Trophies
 
@@ -186,6 +188,8 @@
 [![An image of @abhi873s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi873)](https://holopin.io/@abhi873)
 
 
+<!--
+
 ##  🔝 &nbsp;Top Contributed Repo  
 
 <p >
@@ -196,9 +200,10 @@
   <a align="right">
     <p>✍️ &nbsp;Random Dev Quote</p>
     <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote"/>
-  </a> -->
+  </a> 
 </p>
 
+ -->
 
 
 ## 🤝🏻 &nbsp;Connect with Me
